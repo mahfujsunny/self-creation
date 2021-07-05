@@ -6,6 +6,7 @@ body {
 #a {
     display: flex;
     background: url("./Images/frame6.png") no-repeat;
+    width: 100%;
 }
 
 h1 {
@@ -39,7 +40,7 @@ h1 {
 }
 
 #img-1 {
-    width: 60%;
+    width: 80%;
 }
 
 .border-left {
@@ -64,8 +65,13 @@ a {
 
 #b {
     display: flex;
+    width: 100%;
     padding-top: 20px;
     background: url("./Images/dream-bg.png") no-repeat right;
+}
+
+#c{
+    width: 100%;
 }
 
 .last {
