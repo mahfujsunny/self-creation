@@ -1,0 +1,104 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+#a {
+    display: flex;
+    background: url("./Images/frame6.png") no-repeat;
+}
+
+h1 {
+    font-size: 50px;
+    text-shadow: 4px 4px 4px gray;
+}
+
+.welcome {
+    font-size: 60px;
+    letter-spacing: 20px;
+    text-shadow: 4px 4px 4px gray;
+}
+
+.to {
+    display: inline;
+    padding: 175px;
+}
+
+.mahfuj-sunny {
+    color: hotpink;
+    text-shadow: 4px 4px 4px rgb(53, 40, 40);
+}
+
+.d1 {
+    width: 50%;
+    padding: 50px;
+}
+
+.d1 img {
+    width: 100%;
+}
+
+#img-1 {
+    width: 60%;
+}
+
+.border-left {
+    border-left: 5px solid black;
+    border-radius: 2px;
+    padding-left: 10px;
+}
+
+p {
+    padding-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    background: linear-gradient(orange, red);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    text-shadow: 2px 2px 4px black;
+}
+
+#b {
+    display: flex;
+    padding-top: 20px;
+    background: url("./Images/dream-bg.png") no-repeat right;
+}
+
+.last {
+    display: flex;
+    padding-bottom: 60px;
+}
+
+.last div {
+    width: 40%;
+    padding: 50px;
+    margin: 0px 50px 0px 50px;
+    box-shadow: 10px 10px 40px black;
+    border-radius: 10px;
+}
+
+.last div h1 {
+    font-size: 40px;
+    padding-left: 5px;
+    border-left: 5px solid black;
+}
+
+.border-left-1{
+    border-left: 8px solid;
+    border-image: linear-gradient(red, blue);
+    border-image-slice: 1;
+}
+
+.border-left-2{
+    border-left: 8px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+}
